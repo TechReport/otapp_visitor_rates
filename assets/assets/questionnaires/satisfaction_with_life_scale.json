@@ -1,0 +1,172 @@
+{
+    "name": "Start Feedback Review",
+    "instructions": "Welcome to our Event  Review for Feedback collectio for attendee , we value privacy and your wise time you took to anwer the form below.",
+    "questions": [
+        {
+            "text": "How Was The Sound Quality",
+            "id":"6079ef17b589b961fb9edbe5",
+            "answers": [
+                {
+                    "text": "🏅🏅🏅🏅🏅🏅🏅",
+                    "score": 7
+                },
+                {
+                    "text": "🏅🏅🏅🏅🏅",
+                    "score": 6
+                },
+                {
+                    "text": "🏅🏅🏅🏅🏅",
+                    "score": 5
+                },
+                {
+                    "text": "🏅🏅🏅🏅",
+                    "score": 4
+                },
+                {
+                    "text": "🏅🏅🏅",
+                    "score": 3
+                },
+                {
+                    "text": "🏅🏅",
+                    "score": 2
+                },
+                {
+                    "text": "🏅",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "text": "Was the Picture Visual Quality Best",
+            "id":"6079ef35b589b961fb9edbeb",
+            "answers": [
+                {
+                    "text": "Strongly agree",
+                    "score": 7
+                },
+                {
+                    "text": "Agree",
+                    "score": 6
+                },
+                {
+                    "text": "Slightly agree",
+                    "score": 5
+                },
+                {
+                    "text": "Neither agree nor disagree",
+                    "score": 4
+                },
+                {
+                    "text": "Slightly disagree",
+                    "score": 3
+                },
+                {
+                    "text": "Disagree",
+                    "score": 2
+                },
+                {
+                    "text": "Strongly disagree",
+                    "score": 1
+                }
+            ]
+        },
+             {
+            "text": "How was the movie, rate the movie",
+            "id":"6079ef35b589b961fb9edbec",
+            "answers": [
+                {
+                    "text": "⭐⭐⭐⭐⭐⭐⭐⭐⭐",
+                    "score": 7
+                },
+                {
+                    "text": "⭐⭐⭐⭐⭐⭐⭐",
+                    "score": 6
+                },
+                {
+                    "text": "⭐⭐⭐⭐⭐",
+                    "score": 5
+                },
+                {
+                    "text": "⭐⭐⭐⭐",
+                    "score": 4
+                },
+                {
+                    "text": "⭐⭐⭐",
+                    "score": 3
+                },
+                {
+                    "text": "⭐⭐",
+                    "score": 2
+                },
+                {
+                    "text": "⭐",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "text": "Was the venue good ?",
+            "id":"6079ef35b589b961fb9edbed",
+            "answers": [
+                {
+                    "text": "Strongly agree",
+                    "score": 7
+                },
+                {
+                    "text": "Agree",
+                    "score": 6
+                },
+                {
+                    "text": "Slightly agree",
+                    "score": 5
+                },
+                {
+                    "text": "Neither agree nor disagree",
+                    "score": 4
+                },
+                {
+                    "text": "Slightly disagree",
+                    "score": 3
+                },
+                {
+                    "text": "Disagree",
+                    "score": 2
+                },
+                {
+                    "text": "Strongly disagree",
+                    "score": 1
+                }
+            ]
+        }
+    ],
+    "interpretations": [
+        {
+            "score": 31,
+            "text": "Extremely satisfied"
+        },
+        {
+            "score": 26,
+            "text": "Satisfied"
+        },
+        {
+            "score": 21,
+            "text": "Slightly satisfied"
+        },
+        {
+            "score": 20,
+            "text": "Neutral"
+        },
+        {
+            "score": 15,
+            "text": "Slightly dissatisfied"
+        },
+        {
+            "score": 10,
+            "text": "Dissatisfied"
+        },
+        {
+            "score": 5,
+            "text": "Extremely dissatisfied"
+        }
+    ]
+}
