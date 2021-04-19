@@ -15,10 +15,10 @@ const RESOURCES = {
 "assets/assets/havoc.jpg": "ae069351836f6e79e38a16bf0a547453",
 "assets/assets/goodzilla.jpg": "89485a61795f16fd2d0619e62b5b1d1f",
 "assets/assets/Otapp.png": "50018278cf891316fcf5ed5138b4058f",
-"assets/assets/questionnaires/satisfaction_with_life_scale.json": "b615fe714b2927948e92822ed0daf1e6",
+"assets/assets/questionnaires/satisfaction_with_life_scale.json": "010bb98872d63c5fcfc127aee7445ec7",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"index.html": "311bc2dab7dd07996246f017646665fd",
-"/": "311bc2dab7dd07996246f017646665fd",
+"index.html": "613fcb52b8ecad4c6bdab875ead696fd",
+"/": "613fcb52b8ecad4c6bdab875ead696fd",
 "version.json": "dc4fc08030600fb889d28b229958a61f",
 "manifest.json": "e5938304406644ff539fd3fc1d620832"
 };
